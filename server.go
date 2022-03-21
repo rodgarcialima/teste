@@ -1,5 +1,5 @@
 package server
 
-func Soma(a, c int) int {
-	return a + c
+func Soma(a, b int) int {
+	return a + b
 }
